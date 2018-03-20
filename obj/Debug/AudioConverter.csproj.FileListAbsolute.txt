@@ -1,0 +1,8 @@
+c:\users\vianej\documents\visual studio 2017\Projects\AudioConverter\AudioConverter\obj\Debug\AudioConverter.csprojResolveAssemblyReference.cache
+c:\users\vianej\documents\visual studio 2017\Projects\AudioConverter\AudioConverter\bin\Debug\AudioConverter.exe.config
+c:\users\vianej\documents\visual studio 2017\Projects\AudioConverter\AudioConverter\bin\Debug\AudioConverter.exe
+c:\users\vianej\documents\visual studio 2017\Projects\AudioConverter\AudioConverter\bin\Debug\AudioConverter.pdb
+c:\users\vianej\documents\visual studio 2017\Projects\AudioConverter\AudioConverter\bin\Debug\NAudio.dll
+c:\users\vianej\documents\visual studio 2017\Projects\AudioConverter\AudioConverter\bin\Debug\NAudio.xml
+c:\users\vianej\documents\visual studio 2017\Projects\AudioConverter\AudioConverter\obj\Debug\AudioConverter.exe
+c:\users\vianej\documents\visual studio 2017\Projects\AudioConverter\AudioConverter\obj\Debug\AudioConverter.pdb
